@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlavorFusion/static/css/main.7fa8d87a.css",
+    "main.js": "/FlavorFusion/static/js/main.eae77c71.js",
+    "index.html": "/FlavorFusion/index.html",
+    "main.7fa8d87a.css.map": "/FlavorFusion/static/css/main.7fa8d87a.css.map",
+    "main.eae77c71.js.map": "/FlavorFusion/static/js/main.eae77c71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa8d87a.css",
+    "static/js/main.eae77c71.js"
+  ]
+}
