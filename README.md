@@ -110,6 +110,7 @@ Using React Router DOM for smooth page navigation.
 Animation Layer:
 Framer Motion enhances transitions and component entry animations.
 
+---
 
 🧰 Available Scripts
 
@@ -122,8 +123,9 @@ In the project directory, you can run:
 | `npm test`      | Launches the test runner                      |
 | `npm run eject` | Exposes configuration files for customization |
 
+---
 
-## 🧑‍💻 Contributing
+## 🧑‍💻 Contributions
 
 Contributions are always welcome and appreciated! ❤️  
 Whether it’s fixing a bug, improving documentation, or adding a new feature — every contribution helps **FlavorFusion** grow.
@@ -169,6 +171,7 @@ If you’d like to contribute, please follow these steps:
    Add a clear title and description explaining what you changed and why.
    Submit the pull request for review.
 
+---
 
 ## 🧭 Contribution Guidelines
 
@@ -220,7 +223,7 @@ If you encounter issues while running or building the app, try the following:
 > If the issue persists, open a [GitHub Issue](https://github.com/soumyadeepmandal2003/flavorfusion/issues) describing your problem.  
 > Include screenshots, console logs, and steps to reproduce it — this helps maintainers assist you faster.
 
-
+---
 
 ## 🌟 Acknowledgements
 
